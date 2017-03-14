@@ -1,0 +1,25 @@
+input[type=text].Searchbar {
+  width: auto;
+  background: transparent;
+  border: 0;
+  border-bottom: 2px solid #C0C0C0;
+  padding: 1em;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #777; }
+
+input[type=text].Searchbar:focus {
+  outline: none; }
+
+.SuggestionList {
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #999;
+  text-align: center;
+  transition: color .4s ease-in-out; }
+
+.SuggestionList li:hover {
+  color: #fe3d2e; }

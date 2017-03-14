@@ -1,0 +1,19 @@
+.Nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around; }
+
+.Nav-title {
+  font-size: 2em;
+  font-weight: bold; }
+
+.Nav-link {
+  display: block;
+  height: 30px;
+  width: 60px; }
+  .Nav-link img {
+    height: 100%;
+    width: 100%; }
+
+.Nav-prev {
+  transform: rotate(180deg); }
