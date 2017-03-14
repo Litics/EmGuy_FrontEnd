@@ -1,7 +1,9 @@
 ## Getting Started
 Make sure you have node and npm installed and updated
   <code>
-  npm i<br>
+  npm i
+  </code>
+  <code>
   npm run start
   </code>
 ## Table of contents
